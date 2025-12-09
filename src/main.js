@@ -97,7 +97,7 @@ spotLight.target.position.set(-0.5, 0, 0)
 scene.add(spotLight, spotLight.target)
 
 /**
- * HELPERS – sirf samajhne ke liye visual gizmos
+ * HELPERS – 
  */
 // const hemisphereHelper = new THREE.HemisphereLightHelper(hemisphereLight, 0.2)
 // scene.add(hemisphereHelper)
